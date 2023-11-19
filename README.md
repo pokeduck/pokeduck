@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pokeduck">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokeduck&layout=compact&langs_count=6&hide=EJS,HTML,CMake,C%2B%2B,CSS" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokeduck&theme=catppuccin_latte&layout=compact&langs_count=6&hide=EJS,HTML,CMake,C%2B%2B,CSS" />
 </a>
 </br>
 <!---
