@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pokeduck
-- 👀 I’m interested in Swift
+- 👀 I’m interested in Swift, Objective-C and JavaScript
 - 🌱 I’m currently learning .NET Core
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pokeduck">
