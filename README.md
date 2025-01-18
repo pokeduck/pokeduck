@@ -6,6 +6,25 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokeduck&theme=catppuccin_latte&layout=compact&langs_count=6&hide=EJS,HTML,CMake,C%2B%2B,CSS" />
 </a>
 </br>
+
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/pokeduck/pokeduck/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/pokeduck/pokeduck/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/pokeduck/pokeduck/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+
+
 <!---
 <a href="https://github-readme-stats.vercel.app/api/wakatime?username=pokeduck">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=pokeduck" />
