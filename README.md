@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pokeduck
 - 👀 I’m interested in Swift, Objective-C and JavaScript
-- 🌱 I’m currently learning .NET Core
+- 🌱 I’m currently learning .NET Core and Nuxt.js
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=pokeduck">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokeduck&theme=catppuccin_latte&layout=compact&langs_count=6&hide=EJS,HTML,CMake,C%2B%2B,CSS" />
